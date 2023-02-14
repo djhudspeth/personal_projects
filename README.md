@@ -1,6 +1,6 @@
 My Python Learning Journey
 
-This repository is a collection of fun projects that I created while learning Python. Each project folder contains a complete Python script, as well as any necessary data files or documentation.
+This repository is a collection of fun projects that I created while learning Python. Each project file contains a complete Python script described in the section below.
 
 Projects Included
 Here is a list of the projects included in this repository:
